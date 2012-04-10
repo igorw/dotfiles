@@ -1,0 +1,7 @@
+[color]
+	ui = true
+[merge]
+	log = true
+[user]
+	name = Igor Wiedler
+	email = igor@wiedler.ch
